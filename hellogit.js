@@ -1,1 +1,1 @@
-alert("Hello Git");
+alert("New hello git");
