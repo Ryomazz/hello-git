@@ -1,1 +1,1 @@
-alert("New hello git");
+alert("New hello Github");
